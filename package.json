@@ -1,6 +1,7 @@
 {
   "name": "react-app-1",
   "version": "0.1.0",
+  "homepage": "http://ToporkovaNastya.github.io/react-app-1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
